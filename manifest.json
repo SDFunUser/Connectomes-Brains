@@ -1,0 +1,10 @@
+{
+  "format": "VFB Connectome Archive",
+  "version": 1,
+  "created_utc": "2026-09-19T23:24:23.700658Z",
+  "api": "https://v3-cached.virtualflybrain.org",
+  "files": [
+    "manifest.json",
+    "connectome_datasets.json"
+  ]
+}

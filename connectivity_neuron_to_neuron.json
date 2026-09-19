@@ -1,0 +1,28 @@
+{
+  "connections": [],
+  "warnings": [
+    "'neuron' (FBbt_00005106) has 18303 subclasses, over the 10000 limit; only neurons typed directly to it were searched. Ask about a more specific type.",
+    "'neuron' (FBbt_00005106) has 18303 subclasses, over the 10000 limit; only neurons typed directly to it were searched. Ask about a more specific type."
+  ],
+  "count": 0,
+  "resolved": {
+    "upstream": {
+      "query": "Neuron",
+      "id": "FBbt_00005106",
+      "label": "neuron",
+      "classes_searched": 1,
+      "instances": 474995
+    },
+    "downstream": {
+      "query": "Neuron",
+      "id": "FBbt_00005106",
+      "label": "neuron",
+      "classes_searched": 1,
+      "instances": 474995
+    }
+  },
+  "excluded_dbs": [
+    "hb",
+    "fafb"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "format": "VFB Connectome Archive",
+  "version": 1,
+  "created_utc": "2026-09-19T23:24:53.651009Z",
+  "source": "Virtual Fly Brain",
+  "api": "https://v3-cached.virtualflybrain.org",
+  "authentication": false,
+  "dataset_count": 8,
+  "datasets": [
+    "BANC888",
+    "flywire783",
+    "neuprint_JRC_OpticLobe_v1_0_1",
+    "neuprint_JRC_Manc_1_2_1",
+    "neuprint_JRC_Hemibrain_1point2point1",
+    "male_cns_v1_0",
+    "catmaid_fafb",
+    "catmaid_l1em"
+  ]
+}
